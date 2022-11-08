@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DiscussItDatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Post">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PostTitle" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PostContent" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PostDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Replies" Relationship="Self.FK__Replies__PostId__4E88ABD4" FromRole="Post" ToRole="Replies" />
+    <Property Name="UserId" Type="Int32" />
+    <NavigationProperty Name="User" Relationship="DiscussItDatabaseModel.FK__Post__UserId__6E01572D" FromRole="Post" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Reply">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PostId" Type="Int32" Nullable="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="ReplyContent" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PostDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Post" Relationship="Self.FK__Replies__PostId__4E88ABD4" FromRole="Replies" ToRole="Post" />
+    <NavigationProperty Name="User" Relationship="Self.FK__Replies__UserId__4F7CD00D" FromRole="Replies" ToRole="User" />
+  </EntityType>
+  <EntityType Name="Role">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="RoleName" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Users" Relationship="Self.FK__User__RoleId__398D8EEE" FromRole="Role" ToRole="User" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UserEmail" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UserPassword" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="RoleId" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Replies" Relationship="Self.FK__Replies__UserId__4F7CD00D" FromRole="User" ToRole="Replies" />
+    <NavigationProperty Name="Role" Relationship="Self.FK__User__RoleId__398D8EEE" FromRole="User" ToRole="Role" />
+    <NavigationProperty Name="Posts" Relationship="DiscussItDatabaseModel.FK__Post__UserId__6E01572D" FromRole="User" ToRole="Post" />
+  </EntityType>
+  <Association Name="FK__Replies__PostId__4E88ABD4">
+    <End Role="Post" Type="Self.Post" Multiplicity="1" />
+    <End Role="Replies" Type="Self.Reply" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Post">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Replies">
+        <PropertyRef Name="PostId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Replies__UserId__4F7CD00D">
+    <End Role="User" Type="Self.User" Multiplicity="1" />
+    <End Role="Replies" Type="Self.Reply" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Replies">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__User__RoleId__398D8EEE">
+    <End Role="Role" Type="Self.Role" Multiplicity="1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Role">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="RoleId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DiscussItDatabaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Posts" EntityType="Self.Post" />
+    <EntitySet Name="Replies" EntityType="Self.Reply" />
+    <EntitySet Name="Roles" EntityType="Self.Role" />
+    <EntitySet Name="Users" EntityType="Self.User" />
+    <AssociationSet Name="FK__Replies__PostId__4E88ABD4" Association="Self.FK__Replies__PostId__4E88ABD4">
+      <End Role="Post" EntitySet="Posts" />
+      <End Role="Replies" EntitySet="Replies" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Replies__UserId__4F7CD00D" Association="Self.FK__Replies__UserId__4F7CD00D">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Replies" EntitySet="Replies" />
+    </AssociationSet>
+    <AssociationSet Name="FK__User__RoleId__398D8EEE" Association="Self.FK__User__RoleId__398D8EEE">
+      <End Role="Role" EntitySet="Roles" />
+      <End Role="User" EntitySet="Users" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Post__UserId__6E01572D" Association="DiscussItDatabaseModel.FK__Post__UserId__6E01572D">
+      <End Role="User" EntitySet="Users" />
+      <End Role="Post" EntitySet="Posts" />
+    </AssociationSet>
+  </EntityContainer>
+  <Association Name="FK__Post__UserId__6E01572D">
+    <End Type="DiscussItDatabaseModel.User" Role="User" Multiplicity="0..1" />
+    <End Type="DiscussItDatabaseModel.Post" Role="Post" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Post">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,189 @@
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\DiscussIt.dll.config
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\DiscussIt.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\DiscussIt.pdb
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\csc.exe
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\csc.exe.config
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\csc.rsp
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\csi.exe
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\csi.exe.config
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\csi.rsp
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.AppContext.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Console.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.IO.Compression.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Net.Http.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Net.Sockets.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.ValueTuple.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Xml.XPath.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\vbc.exe
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\vbc.exe.config
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\vbc.rsp
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\VBCSCompiler.exe
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\obj\Debug\DiscussIt.csproj.AssemblyReference.cache
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\obj\Debug\DiscussIt.csproj.CoreCompileInputs.cache
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\obj\Debug\DiscussIt.csproj.CopyComplete
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\obj\Debug\DiscussIt.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\obj\Debug\DiscussIt.pdb
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\EntityFramework.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\EntityFramework.SqlServer.dll
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\EntityFramework.xml
+D:\Projects\DiscussIt_ASP\DiscussIt\DiscussIt\bin\EntityFramework.SqlServer.xml
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\DiscussIt.dll.config
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\DiscussIt.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\DiscussIt.pdb
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\csc.exe
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\csc.exe.config
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\csc.rsp
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\csi.exe
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\csi.exe.config
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\csi.rsp
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.AppContext.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Console.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Net.Http.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\vbc.exe
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\vbc.exe.config
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\vbc.rsp
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\EntityFramework.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\EntityFramework.SqlServer.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\EntityFramework.xml
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\EntityFramework.SqlServer.xml
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\obj\Debug\DiscussIt.csproj.AssemblyReference.cache
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\obj\Debug\DiscussIt.csproj.CoreCompileInputs.cache
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\obj\Debug\DiscussIt.csproj.CopyComplete
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\obj\Debug\DiscussIt.dll
+C:\Users\Bryan Theophillus\OneDrive\Documents\GitHub\Pattern-Software-Design\DiscussIt\obj\Debug\DiscussIt.pdb
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\DiscussIt.dll.config
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\DiscussIt.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\DiscussIt.pdb
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\csc.exe
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\csc.exe.config
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\csc.rsp
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\csi.exe
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\csi.exe.config
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\csi.rsp
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.AppContext.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Console.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.IO.Compression.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Net.Http.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.ValueTuple.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\vbc.exe
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\vbc.exe.config
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\vbc.rsp
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\EntityFramework.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\EntityFramework.SqlServer.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\EntityFramework.xml
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\EntityFramework.SqlServer.xml
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\obj\Debug\DiscussIt.csproj.AssemblyReference.cache
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\obj\Debug\DiscussIt.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\obj\Debug\DiscussIt.csproj.CopyComplete
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\obj\Debug\DiscussIt.dll
+C:\Users\Jay\source\repos\Disscusit-main\DiscussIt\obj\Debug\DiscussIt.pdb
